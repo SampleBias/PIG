@@ -1,4 +1,4 @@
-# Prompt Injection Generator
+# 🐷 Prompt Injection Generator
 
 ## Description
 
@@ -71,7 +71,7 @@ Contributions to improve the tool or add new categories are welcome. Please subm
 
 ## Author
 
-[Your Name]
+S4MPL3BI4S // VivaSecuris Syndicate
 
 ## Acknowledgments
 
