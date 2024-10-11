@@ -77,3 +77,4 @@ S4MPL3BI4S // VivaSecuris Syndicate
 
 - Ollama for providing the language model capabilities
 - The cybersecurity community for ongoing research in prompt injection vulnerabilities
+- Support the project via Sponsor Links ------------->
